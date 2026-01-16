@@ -2,6 +2,13 @@
 
 **Versi** 1.0 • **Tanggal:** 2026-01-09
 ---
+
+**Anggota Kelompok**
+* **Ahmad Syehi Budin (1)**
+* **Almira Meyta Anisa Kirana (3)**
+* **Arwa Nicky Fahra Nabbiya (10)**
+* **Inez Ayu Agustin (16)**
+---
 ## 1. Ringkasan
 MyTelkomsel merupakan sebuah aplikasi resmi dari Telkomsel yang sering digunakan pelanggan prabayar (sistem bayar di muka) dan pascabayar (bayar di akhir) untuk mengelola layanan telekomunikasi. MyTelkomsel menyedia berbagaikan pelayanan seperti manajemen akun (cek pulsa/kuota/poin), pembelian paket & isi ulang internet, pembayaran tagihan (PLN, BPJS, dll), hiburan (streaming video/musik/game), hingga fitur gaya hidup seperti belanja tiket pesawat/hotel dan layanan kesehatan.
 
@@ -37,14 +44,6 @@ MyTelkomsel merupakan sebuah aplikasi resmi dari Telkomsel yang sering digunakan
 - Monitoring pemakaian kuota, telepon, dan SMS
 * **Tujuan:** Mengontrol biaya dan memastikan pembayaran tepat waktu tanpa gangguan layanan.
 
-## D. Admin / Operator
-   => Pengguna internal yang bertanggung jawab atas pengelolaan sistem.
-* **Fitur & Kebutuhan:**
-- Monitoring sistem dan performa aplikasi
-- Analitik penggunaan dan laporan data
-- Customer support dan penanganan kendala teknis
-* **Tujuan:** Menjaga stabilitas sistem dan meningkatkan kualitas layanan pengguna.
-  
 ---
 ## 4. Fitur Inti & Prioritas Produk
 - **Account & Authentication**  
@@ -64,11 +63,18 @@ MyTelkomsel merupakan sebuah aplikasi resmi dari Telkomsel yang sering digunakan
 
 ---
 ## 5.UI/UX Patterns
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20dceeee-717e-42ac-a507-477ba64cb2e1" width="200" />
+  <img src="https://github.com/user-attachments/assets/51d8f7da-d06e-4002-8f65-cadb6d54fcfd" width="200" />
+  <img src="https://github.com/user-attachments/assets/0fd21d5e-de71-4a92-8cdf-3f85bc546228" width="200" />
+  <img src="https://github.com/user-attachments/assets/bad0f240-1087-4184-ae3f-50689bf0ab6b" width="200" />
+</p>
 
 ---
 ## 6. Site Map
-
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/aad8ab2e-9495-4e03-ba69-13a1d2364487" width="650" />
+</p> 
 
 ---
 ## 7. User Flow Diagrams 
